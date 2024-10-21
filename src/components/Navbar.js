@@ -65,7 +65,7 @@ const Navbar = () => {
               </button>
               {dropdownServices && (
                 <div
-                  className="absolute mt-2 w-48 bg-white text-[#023A15] left-0 bottom-0 rounded-md shadow-lg z-200"
+                  className="absolute w-max px-4 py-6 bg-white text-[#023A15] left-0 top-16 rounded-md shadow-lg z-100"
                   onMouseEnter={() => setDropdownServices(true)}
                   onMouseLeave={() => setDropdownServices(false)}
                 >
@@ -94,7 +94,7 @@ const Navbar = () => {
               </button>
               {dropdownPages && (
                 <div
-                  className="absolute mt-2 w-48 bg-beige-100 text-[#023A15] rounded-md shadow-lg z-40"
+                  className="absolute w-max px-4 py-6 bg-white text-[#023A15] rounded-md shadow-lg left-0 top-16 z-100"
                   onMouseEnter={() => setDropdownPages(true)}
                   onMouseLeave={() => setDropdownPages(false)}
                 >
@@ -133,16 +133,16 @@ const Navbar = () => {
         {/* Mobile Menu */}
         {isOpen && (
           <div className="md:hidden">
-            <Link href="/home" className="block px-4 py-2 text-gray-600 hover:text-gray-900">
+            <Link href="/home" className="block px-4 py-2 text-white hover:text-green-300">
               Home
             </Link>
-            <Link href="/about" className="block px-4 py-2 text-gray-600 hover:text-gray-900">
+            <Link href="/about" className="block px-4 py-2 text-white hover:text-green-300">
               About
             </Link>
-            <Link href="/services" className="block px-4 py-2 text-gray-600 hover:text-gray-900">
+            <Link href="/services" className="block px-4 py-2 text-white hover:text-green-300">
               Services
             </Link>
-            <Link href="/contact" className="block px-4 py-2 text-gray-600 hover:text-gray-900">
+            <Link href="/contact" className="block px-4 py-2 text-white hover:text-green-300">
               Contact
             </Link>
           </div>

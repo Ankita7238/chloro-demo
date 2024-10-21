@@ -48,7 +48,7 @@ const Hero = () => {
     <div className='w-full bg-[#023A15] pb-10 flex justify-center items-center text-white '>
         <div className='w-11/12 mx-auto flex md:flex-row flex-col justify-center items-center  gap-x-5'>
             <div className='w-full md:w-1/2 lg:w-2/5 flex flex-col md:place-items-start place-items-center '>
-                <p className={`${cormorant.className} text-4xl  md:text-5xl xl:text-6xl  mb-6 md:mb-12 leading-snug md:leading-normal tracking-wider md:text-left text-center`}>A whole <span className='italic'>new world</span>, a whole <span className='italic'>new look.</span></p>
+                <p className={`${cormorant.className} text-4xl  md:text-5xl xl:text-6xl  mb-6 md:mb-12 leading-snug tracking-wider md:text-left text-center`}>A whole <span className='italic'>new world</span>, a whole <span className='italic'>new look.</span></p>
                 <p className={`w-11/12 ${montserrat.className} text-base leading-tight md:leading-snug mb-4 md:mb-8 md:text-left text-center`}>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>
                 <Button className='w-fit bg-white text-[#023A15] px-3 py-3 lg:text-sm text-xs border-2 hover:border-white hover:bg-[#023A15] hover:text-white'>Discover More</Button>
             </div>
@@ -83,11 +83,12 @@ const Hero = () => {
                             src={image.url}
                             alt={image.name}
                             className="object-cover w-full pb-[120%] md:pb-[130%]"
+                            priority='true'
                         />
                     </div>
           ))}
         </Carousel>
-        <div className="flex gap-x-6 text-white mt-8 ml-5 md:justify-start justify-center ">
+        <div className="relative z-30 flex gap-x-6 text-white mt-8 ml-5 md:justify-start justify-center ">
           <button onClick={handlePrevClick} aria-label="Previous product">
             <HiArrowLeft size={35} />
           </button>
