@@ -65,7 +65,7 @@ const Navbar = () => {
               </button>
               {dropdownServices && (
                 <div
-                  className="absolute mt-2 w-48 bg-beige-100 text-[#023A15] rounded-md shadow-lg z-40"
+                  className="absolute mt-2 w-48 bg-white text-[#023A15] left-0 bottom-0 rounded-md shadow-lg z-200"
                   onMouseEnter={() => setDropdownServices(true)}
                   onMouseLeave={() => setDropdownServices(false)}
                 >
