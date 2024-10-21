@@ -1,7 +1,7 @@
 import { Cormorant, Montserrat } from 'next/font/google';
 import Button from './Button';
 import Image from 'next/image'
-import vector from '@/assets/vector.png'
+import vector from '@/assets/Vector.png'
 
 const cormorant = Cormorant({
   subsets: ['latin'],
