@@ -1,0 +1,33 @@
+[
+    {
+      "image": "https://res.cloudinary.com/dlvuryigq/image/upload/v1729228803/woman-relaxing-with-a-facial-mask-at-the-spa-FT2XZH6_t8cvwc.jpg",
+      "title": "Face Scrub",
+      "desc": "Lorem ipsum dolor sit amet, cctetur adipiscing elit."
+    },
+    {
+      "image": "https://res.cloudinary.com/dlvuryigq/image/upload/v1729228803/facial-massage-beauty-treatment-CV8BDTP_sbfllz.jpg",
+      "title": "Face Massage",
+      "desc": "Lorem ipsum dolor sit amet, cctetur adipiscing elit."
+    },
+    {
+      "image": "https://res.cloudinary.com/dlvuryigq/image/upload/v1729228804/massage-therapist-massaging-woman-AWN6QAT-1024x1024_va8fxj.jpg",
+      "title": "Body Massage",
+      "desc": "Lorem ipsum dolor sit amet, cctetur adipiscing elit."
+    },
+    {
+      "image": "https://res.cloudinary.com/dlvuryigq/image/upload/v1729228804/close-up-of-cosmetic-botox-injection-RGZTDV3-1024x1024_osod8u.jpg",
+      "title": "Botox",
+      "desc": "Lorem ipsum dolor sit amet, cctetur adipiscing elit."
+    },
+    {
+      "image": "https://res.cloudinary.com/dlvuryigq/image/upload/v1729228804/pedicure-LDJ5TEU-1024x1024_igfvil.jpg",
+      "title": "Pedicure",
+      "desc": "Lorem ipsum dolor sit amet, cctetur adipiscing elit."
+    },
+    {
+      "image": "https://res.cloudinary.com/dlvuryigq/image/upload/v1729228801/facial-beauty-treatment-in-spa-CSVTMH2-1024x1024_reak24.jpg",
+      "title": "Face Cleanser",
+      "desc": "Lorem ipsum dolor sit amet, cctetur adipiscing elit."
+    }
+  ]
+  

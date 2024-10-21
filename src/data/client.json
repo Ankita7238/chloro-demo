@@ -1,0 +1,31 @@
+[
+    {
+        "name": "Client 1",
+        "url": "https://res.cloudinary.com/dlvuryigq/image/upload/v1729230003/clientlogo_7_4x-1024x768_jrnz4l.png"
+    },
+    {
+        "name": "Client 2",
+        "url": "https://res.cloudinary.com/dlvuryigq/image/upload/v1729230001/clientlogo_6_4x-1024x768_aylk6k.png"
+    },
+    {
+        "name": "Client 3",
+        "url": "https://res.cloudinary.com/dlvuryigq/image/upload/v1729230000/clientlogo_5_4x-1024x768_ekuvyp.png"
+    },
+    {
+        "name": "Client 4",
+        "url": "https://res.cloudinary.com/dlvuryigq/image/upload/v1729229999/clientlogo_3_4x-1024x768_alaakg.png"
+    }
+    ,
+    {
+        "name": "Client 5",
+        "url": "https://res.cloudinary.com/dlvuryigq/image/upload/v1729229999/clientlogo_4_4x-1024x768_wagljj.png"
+    },
+    {
+        "name": "Client 6",
+        "url": "https://res.cloudinary.com/dlvuryigq/image/upload/v1729229998/clientlogo_2_4x-1024x768_sjgj1q.png"
+    },
+    {
+        "name": "Client 7",
+        "url": "https://res.cloudinary.com/dlvuryigq/image/upload/v1729229997/clientlogo_1_4x-1024x768_ywgev6.png"
+    }
+]

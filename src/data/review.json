@@ -1,0 +1,28 @@
+[
+    {
+      "name": "Alice Johnson",
+      "title": "Software Engineer",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam accumsan arcu est, at lobortis nulla porta eu. Aenean vel dolor enim. Etiam aliquam mauris eros, eget ornare diam volutpat eu. Fusce auctor pretium tellus vitae bibendum ane Smitch"
+    },
+    {
+      "name": "Bob Smith",
+      "title": "Project Manager",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam accumsan arcu est, at lobortis nulla porta eu. Aenean vel dolor enim. Etiam aliquam mauris eros, eget ornare diam volutpat eu. Fusce auctor pretium tellus vitae bibendum ane Smitch"
+    },
+    {
+      "name": "Charlie Adams",
+      "title": "Data Analyst",
+      "desc": "Charlie is skipsum dolor sit amet, consectetur adipiscing elit. Etiam accumsan cusing on extracting busipsum dolor sit amet, consectetur adipiscing elit. Etiam accumsants."
+    },
+    {
+      "name": "Diana Lee",
+      "title": "UX Designer",
+      "desc": "Diana designs intuitive ipsum dolor sit amet, consectetur adipiscing elit. Etiam accumsan us on user experience and accessibility."
+    },
+    {
+      "name": "Ethan Brown",
+      "title": "DevOps Engineer",
+      "desc": "Ethan automates infrastructive ipsum dolor s tive ipsum dolor s tive ipsum dolorthe smooth deployment of applications across environments."
+    }
+  ]
+  
